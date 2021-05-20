@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="EPTV">
+    <display-name lang="pt">EPTV</display-name>
+    <icon src="../canais/1619088464.gif|../canais/tvnazare.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND SP">
+    <display-name lang="pt">BAND SP</display-name>
+    <icon src="../canais/1580774672.gif|../canais/ctvtwo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO SP">
+    <display-name lang="pt">GLOBO SP</display-name>
+    <icon src="../canais/1617988084.gif|../canais/metv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RECORD SP">
+    <display-name lang="pt">RECORD SP</display-name>
+    <icon src="../canais/kwhy.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT SP">
+    <display-name lang="pt">SBT SP</display-name>
+    <icon src="../canais/1575899865.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="pt">DISCOVERY CHANNEL</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+</tv>
